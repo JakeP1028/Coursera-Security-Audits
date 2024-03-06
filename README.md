@@ -1,2 +1,2 @@
 # Coursera-Security-Audits
-The following is a Security Audits conducted during a Coursera course for Cyber Security
+The following are portfolio building exercises conducted during Coursera courses for Cyber Security Certification
